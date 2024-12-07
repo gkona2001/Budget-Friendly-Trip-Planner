@@ -1,6 +1,12 @@
 
 # Budget-Friendly Trip Planning App  
 
+## **Team Members
+1. Anurag Reddy Karnati
+2. Sathvika Kondamadugu
+3. Anup Raj Gudisse
+4. Gagan Reddy Konani
+
 ## **Project Overview**  
 The **Budget-Friendly Trip Planning App** is designed to assist users in planning cost-effective trips and exploring new cities without overspending. It provides tools for discovering affordable events, attractions, and seamless navigation for a stress-free travel experience.  
 
