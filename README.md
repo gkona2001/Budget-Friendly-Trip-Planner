@@ -1,50 +1,71 @@
-# Welcome to your Expo app 👋
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+# Budget-Friendly Trip Planning App  
 
-## Get started
+## **Project Overview**  
+The **Budget-Friendly Trip Planning App** is designed to assist users in planning cost-effective trips and exploring new cities without overspending. It provides tools for discovering affordable events, attractions, and seamless navigation for a stress-free travel experience.  
 
-1. Install dependencies
+---
 
+## **Getting Started**  
+
+### **Prerequisites**  
+1. **Node.js**: Ensure you have [Node.js](https://nodejs.org/) installed on your system.  
+2. **Expo CLI**: Install Expo CLI globally if not already installed:  
+   ```bash
+   npm install -g expo-cli
+   ```  
+
+### **Steps to Run the App**  
+1. **Clone the Repository**  
+   Clone this repository to your local machine:  
+   ```bash
+   git clone https://github.com/gkona2001/Budget-Friendly-Trip-Planner.git
+   cd Budget-Friendly-Trip-Planner
+   ```  
+
+2. **Install Dependencies**  
+   Install all required dependencies:  
    ```bash
    npm install
-   ```
+   ```  
 
-2. Start the app
-
+3. **Start the Development Server**  
+   Start the Expo development server with a cache reset:  
    ```bash
-    npx expo start
-   ```
+   npm start --reset-cache
+   ```  
 
-In the output, you'll find options to open the app in a
+4. **Download the Expo Go App**  
+   - Install the **Expo Go** app on your smartphone:  
+     - [Expo Go for Android](https://play.google.com/store/apps/details?id=host.exp.exponent)  
+     - [Expo Go for iOS](https://apps.apple.com/app/expo-go/id982107779)  
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+5. **Run the App on Your Phone**  
+   - Once the development server is running, a QR code will appear in your terminal or the Expo Dev Tools in your browser.  
+   - Open the **Expo Go** app on your phone, scan the QR code, and view the app in real-time.  
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+---
 
-## Get a fresh project
+## **Features**  
+1. **Event Discovery**: Search for and explore events with filters, including "Free Only."  
+2. **Event Management**: Save and categorize events as Ongoing, Upcoming, or Past.  
+3. **Navigation and Sharing**: Get directions to events and share details with others.  
 
-When you're ready, run:
+---
 
-```bash
-npm run reset-project
-```
+## **Target Users**  
+- **Backpackers**: Flexible, affordable travel planning.  
+- **Families**: Safe and child-friendly options for enjoyable trips.  
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+---
 
-## Learn more
+## **Prototypes**  
+**Low-Fidelity Prototype**:  
+[View on Figma](https://www.figma.com/proto/jxGaSMY1z8eAMHpx3HA8zC/Budget-Planner-v1?scaling=scale-down&content-scaling=fixed&page-id=0%3A1&node-id=11-1506&starting-point-node-id=11%3A1506)  
 
-To learn more about developing your project with Expo, look at the following resources:
+---
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+## **Conclusion**  
+The **Budget-Friendly Trip Planning App** simplifies travel planning with efficient discovery tools, event management features, and real-time navigation, making it ideal for budget-conscious users.  
 
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+---
