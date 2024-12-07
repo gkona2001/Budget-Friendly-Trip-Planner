@@ -6,6 +6,25 @@ The **Budget-Friendly Trip Planning App** is designed to assist users in plannin
 
 ---
 
+## **Features**  
+1. **Event Discovery**: Search for and explore events with filters, including "Free Only."  
+2. **Event Management**: Save and categorize events as Ongoing, Upcoming, or Past.  
+3. **Navigation and Sharing**: Get directions to events and share details with others.  
+
+---
+
+## **Target Users**  
+- **Backpackers**: Flexible, affordable travel planning.  
+- **Families**: Safe and child-friendly options for enjoyable trips.  
+
+---
+
+## **Prototypes**  
+**Low-Fidelity Prototype**:  
+[View on Figma](https://www.figma.com/proto/jxGaSMY1z8eAMHpx3HA8zC/Budget-Planner-v1?scaling=scale-down&content-scaling=fixed&page-id=0%3A1&node-id=11-1506&starting-point-node-id=11%3A1506)  
+
+---
+
 ## **Getting Started**  
 
 ### **Prerequisites**  
@@ -46,26 +65,3 @@ The **Budget-Friendly Trip Planning App** is designed to assist users in plannin
 
 ---
 
-## **Features**  
-1. **Event Discovery**: Search for and explore events with filters, including "Free Only."  
-2. **Event Management**: Save and categorize events as Ongoing, Upcoming, or Past.  
-3. **Navigation and Sharing**: Get directions to events and share details with others.  
-
----
-
-## **Target Users**  
-- **Backpackers**: Flexible, affordable travel planning.  
-- **Families**: Safe and child-friendly options for enjoyable trips.  
-
----
-
-## **Prototypes**  
-**Low-Fidelity Prototype**:  
-[View on Figma](https://www.figma.com/proto/jxGaSMY1z8eAMHpx3HA8zC/Budget-Planner-v1?scaling=scale-down&content-scaling=fixed&page-id=0%3A1&node-id=11-1506&starting-point-node-id=11%3A1506)  
-
----
-
-## **Conclusion**  
-The **Budget-Friendly Trip Planning App** simplifies travel planning with efficient discovery tools, event management features, and real-time navigation, making it ideal for budget-conscious users.  
-
----
