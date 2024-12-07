@@ -1,7 +1,7 @@
 
 # Budget-Friendly Trip Planning App  
 
-## **Team Members
+## Team Members
 1. Anurag Reddy Karnati
 2. Sathvika Kondamadugu
 3. Anup Raj Gudisse
