@@ -3,7 +3,7 @@ import { View, StyleSheet, Dimensions } from 'react-native';
 import { WebView } from 'react-native-webview';
 import Footerforbase from '../components/Footerforbase';
 
-const GOOGLE_MAPS_API_KEY = 'AIzaSyB3DgKHLD1rverz7rpCmpmhQq__SVnEXPg'; // Replace with your actual Google Maps API Key
+const GOOGLE_MAPS_API_KEY = ''; // Replace with your actual Google Maps API Key
 
 const DirectionsScreen = ({ route }) => {
   const { userLocation, event } = route.params;
