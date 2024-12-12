@@ -33,7 +33,7 @@ const MapsPage = ({ navigation }) => {
   const [searchQuery, setSearchQuery] = useState('');
   const [searchResults, setSearchResults] = useState([]);
 
-  const GOOGLE_MAPS_API_KEY = 'AIzaSyB3DgKHLD1rverz7rpCmpmhQq__SVnEXPg';
+  const GOOGLE_MAPS_API_KEY = '';
 
   useEffect(() => {
     const fetchEvents = async () => {
