@@ -17,7 +17,7 @@ import Header from '../components/Header';
 import Footer from '../components/Footer';
 import StatusBar from '../components/StatusBar'; // Import StatusBar component
 
-const GOOGLE_PLACES_API_KEY = 'AIzaSyB3DgKHLD1rverz7rpCmpmhQq__SVnEXPg'; // Replace with your Google API Key
+const GOOGLE_PLACES_API_KEY = ''; // Replace with your Google API Key
 
 const TripDetailsScreen = ({ navigation }) => {
   const [destination, setDestination] = useState('');
