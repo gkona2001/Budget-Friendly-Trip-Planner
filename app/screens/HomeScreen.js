@@ -24,7 +24,7 @@ const handleTabChange = (tab) => {
   setActiveTab(tab);
 };
 
-const GOOGLE_PLACES_API_KEY = 'AIzaSyB3DgKHLD1rverz7rpCmpmhQq__SVnEXPg';
+const GOOGLE_PLACES_API_KEY = '';
 
 const HomeScreen = ({ navigation }) => {
   const [activeTab, setActiveTab] = useState('Flights');
